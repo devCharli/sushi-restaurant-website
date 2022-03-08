@@ -1,0 +1,8 @@
+.food-imgs {
+  display: flex;
+  padding: 2rem 0;
+}
+
+.food-imgs > img {
+  width: 5rem;
+}
