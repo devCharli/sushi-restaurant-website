@@ -1,8 +1,31 @@
-# Sushi Restaurant Website
+# Sushi Restaurant
 
-### `npm install`
+A responsive sushi restaurant website that has menu, location, and contact information.
 
-Open [https://akira-sushi.netlify.app] to view the site.
+A map is displayed by google map api and a customer's inquiry by contact form is sent to the owner's email through EmailJS.
 
-- Built with React, JavaScript, EmailJS, Google Maps API
-- Responsive design
+[Live demo](https://akira-sushi.netlify.app)
+
+## Lessons Learned
+
+- .env file / .gitignore
+- emailjs library
+- google map api
+
+## Demo
+
+![demo](sushi.gif)
+
+## Run Locally
+
+Install
+
+```bash
+  yarn
+```
+
+Start app
+
+```bash
+  yarn start
+```
